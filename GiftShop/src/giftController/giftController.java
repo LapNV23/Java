@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Scanner;
 
 public class giftController {
-    String url = "jdbc:mysql://127.0.0.1:3306/giftshop";
+    String url = "jdbc:mysql://localhost/giftshop";
     String username = "root";
     String password = "";
 
