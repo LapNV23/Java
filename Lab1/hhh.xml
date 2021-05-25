@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<Name Nickname = "John">
+    <First>John</First>
+    <!-- John is yet to pay the tern fees -->
+    <Last>Brown</Last>
+    <Semester>Final</Semester>
+</Name>
