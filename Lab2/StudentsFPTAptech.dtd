@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!ELEMENT FPTAptech (#PCDATA)>
+    <!ELEMENT Student (Name+,Age)>
+    <!ELEMENT Name (FName,LName)+>
+    <!ELEMENT FName (#PCDATA)>
+    <!ELEMENT LName (#PCDATA)>
+    <!ELEMENT Age (#PCDATA)>
+<!ATTLIST Student Sex (Male|Female)>
+

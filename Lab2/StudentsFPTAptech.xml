@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE FPTAptech System "StudentsFPTAptech.dtd">
+<FPTAptech>
+    <Student Sex="Female">
+        <Name>
+            <FName>Dinh</FName>
+            <LName>Anh</LName>
+        </Name>
+        <Age>18</Age>
+    </Student>
+</FPTAptech>
